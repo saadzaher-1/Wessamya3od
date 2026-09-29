@@ -10,7 +10,7 @@ screen.h = Window.GetHeight(0);
 screen.half.w = screen.w / 2;
 screen.half.h = screen.h / 2;
 
-# Load your static image (wessamya3od)
+# Load your static image (wessamya3od.png)
 my_image = Image("my_image.png");
 
 # Create sprite and center it on the screen
